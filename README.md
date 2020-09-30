@@ -8,3 +8,5 @@ HeliumChain is an open source crypto-currency focused on fast private transactio
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
 
 More information at [heliumlabs.org](http://www.heliumlabs.org) & [Helium FAQ](https://www.heliumlabs.org/docs/frequently-asked-questions) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=1809278.0)
+
+##### Note: In August 2020, Helium (HLM) was rebranded as sQuorum (SQR).  There was no coin swap.  The Helium wallet will not process blocks after 999,999 and the official sQuorum wallet uses the same wallet.dat file and private keys so your Helium balance is now your sQuorum balance.  Please download the official wallet at https://github.com/heliumchain/squorum/releases/
